@@ -19,11 +19,15 @@ In order to give you sufficient time to decide whether you would like to be part
 
 Let us be the pioneers of these Mathematicians-Entrepreneurs, setting up the pace to empower ourselves, but also to provide to this youth (our younger brothers, sisters, friends) a platform to optimally use their skills and talents. 
 
-I present to you Fr.A.I.B. programme (From Academia to Industry & Both) for which the website is still under construction. You are welcome to invite colleagues and friends who might want to embark on this and also share across your networks. Anyone can join by filling in this form.
+I present to you Fr.A.I.B. programme (From Academia to Industry & Both) for which the website is still under construction. You are welcome to invite colleagues and friends who might want to embark on this and also share across your networks. Anyone can join by [filling in this form](https://forms.gle/o5PZsXxiVCUKyuTD8).
 
-I am attaching a slightly detailed plan for Phase 1 and I invite you to go thought it.
+
+[Here](https://github.com/gabayae/FrAIB-programme/blob/main/Plan-Phase1-FrAIB-google.pdf) is a timetable for *Phase 1*, read it and then register by filling [this form](https://forms.gle/o5PZsXxiVCUKyuTD8).
 
 I hope to see all of you at the boarding gate ~~~ SOON !!!
+
+
+
 
 
 
